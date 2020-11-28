@@ -15,7 +15,7 @@ Two factors can impede the project progress, the variable selections and data co
 # Research questions
 1. How does the experience racial discrimination across age and have an effect on the quality of life among the Asian immigration group ?
 2. Does limited English proficiency lead to racial discrimination across place of birth?
-3. Does the wage difference correlate with experience of racial discrimination among Asian immigration group ?
+3. Does the wage difference correlate with experience of racial discrimination among Asian ethnic groups?
 
 # Related Work
 One of the most prevalent issues that most immigrants face today is racism and discrimination. According to the study by Yoo, Gee, and Takeuchi investigating discrimination within an Asian American community, 21% of the respondents reported being racial discriminated because of their race, language, and accent. The other study researched by the same group of researchers indicates that racial discrimination has been recognized as a key determinant of mental disorders and depressive symptoms. The project will examine different numbers of personal characteristics, including income level, marital status, and age to identify the factors behind the discrimination in the Asian immigration group in the City of Austin, Texas. The outcome of the analysis will help the city improve race relations and ensure equal treatment.
