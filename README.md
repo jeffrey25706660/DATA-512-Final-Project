@@ -14,7 +14,7 @@ Two factors can impede the project progress, the variable selections and data co
 
 # Research questions
 1. How does the experience racial discrimination across age and have an effect on the quality of life among the Asian immigration group ?
-2. Does limited English proficiency lead to racial discrimination across gender?
+2. Does limited English proficiency lead to racial discrimination across place of birth?
 3. Does the wage difference correlate with experience of racial discrimination among Asian immigration group ?
 
 # Related Work
