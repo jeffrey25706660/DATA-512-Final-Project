@@ -13,9 +13,9 @@ Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 Two factors can impede the project progress, the variable selections and data connectivity. The data contains more than 200 attributes, it will require time-consuming EDA analysis to select the best subset of the variables. The data is retrieved through an API interface without guaranteeing the data availability. The owner may shut off the access without giving any notice.
 
 # Research questions
-1. How does the experience racial discrimination across age and have an effect on the quality of life among the Asian American community?
+1. How does the experience racial discrimination across age and have an effect on the quality of life among the Asian immigration group ?
 2. Does limited English proficiency lead to racial discrimination across gender?
-3. Does the wage difference correlate with experience of racial discrimination among Asian Americans?
+3. Does the wage difference correlate with experience of racial discrimination among Asian immigration group ?
 
 # Related Work
 One of the most prevalent issues that most immigrants face today is racism and discrimination. According to the study by Yoo, Gee, and Takeuchi investigating discrimination within an Asian American community, 21% of the respondents reported being racial discriminated because of their race, language, and accent. The other study researched by the same group of researchers indicates that racial discrimination has been recognized as a key determinant of mental disorders and depressive symptoms. The project will examine different numbers of personal characteristics, including income level, marital status, and age to identify the factors behind the discrimination in the Asian immigration group in the City of Austin, Texas. The outcome of the analysis will help the city improve race relations and ensure equal treatment.
