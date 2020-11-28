@@ -13,7 +13,7 @@ Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 Two factors can impede the project progress, the variable selections and data connectivity. The data contains more than 200 attributes, it will require time-consuming EDA analysis to select the best subset of the variables. The data is retrieved through an API interface without guaranteeing the data availability. The owner may shut off the access without giving any notice.
 
 # Research questions
-1. How does the experience racial discrimination across age and have an effect on the quality of life among the Asian immigration group?
+1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
 2. Does limited English proficiency lead to racial discrimination across place of birth?
 3. Does the wage difference correlate with experience of racial discrimination among Asian ethnic group?
 
