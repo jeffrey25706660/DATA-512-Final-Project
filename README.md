@@ -3,6 +3,13 @@
 ## Abstract
 Asian American is the fastest-growing racial group in the United States according to the research by Pew Research Center. The City of Austin in Texas is no exception. According to the data released by the government of Austin, the number of Asians in Austin is doubling every 10 years compared with the general population which doubles every 20 to 25 years. Yet, the majority of the group is still immigrants. Once here, Asian immigrant families face many obstacles, such as language barriers, culture shock, and ongoing adjustments to new lives. One of the most prevalent issues that most immigrants face is racism and discrimination. Many studies have found that racism has been linked with increased risk of health and lower satisfaction of life. The survey conducted by the City of Austin collects data from 230 different questions from the Asian immigration group to help us better understand their life experience and the basis of a personal characteristic that causes the immigration group treated unfairly in the United States.
 
+
+![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/Discrimination%20vs%20Quality%20of%20Life.PNG)
+![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/Discrimination%20by%20Age%20Group.PNG)
+![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/Discrimination%20by%20English%20Speaking.PNG)
+![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/Discrimination%20by%20Income.PNG)
+
+
 ## Selected Data for analysis
 The data contains more than 2000 rows and 230 attributes collecting from the surveys the city government sent out in 2020. The questions accurately measure the respondents' opinions, behaviors, and experiences. The demographic data regarding age, gender, marital status, etc is also retrieved. Few ethical considerations that may arise in the project include potential gender and age bias in the data.
 
