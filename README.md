@@ -1,17 +1,15 @@
 # Discrimination In the United States: Experiences of Asian Ethnic Group in the City of Austin
 
 ## Abstract
-Asian American is the fastest-growing racial group in the United States according to the research by Pew Research Center. The City of Austin in Texas is no exception. According to the data released by the government of Austin, the number of Asians in Austin is doubling every ten years compared with the general population which doubles every 20 to 25 years. Yet, the majority of the group is still immigrants. Once here, Asian immigrant families face many obstacles, such as language barriers, culture shock, and ongoing adjustments to new lives. One of the most prevalent issues that most immigrants face is racism and discrimination. Many studies have found that racism has been linked with increased risk of health and lower satisfaction of life. The survey conducted by the City of Austin collects data from 230 different questions from the Asian immigration group to help us better understand their social and life experience in the United States and the basis of a personal characteristic that causes the immigration group to be treated unfairly.
+Asian American is the fastest-growing racial group in the United States according to the research by Pew Research Center. The City of Austin in Texas is no exception. According to the data released by the government of Austin, the number of Asians in Austin is doubling every ten years compared with the general population which doubles every 20 to 25 years. Yet, the majority of the group is still immigrants. Once here, Asian immigrant families face many obstacles, such as language barriers, culture shock, and ongoing adjustments to new lives. One of the most prevalent issues that most immigrants face is racism and discrimination. Many studies have found that racism has been linked with increased risk of health and lower satisfaction of life. The survey conducted by the City of Austin collects data from 230 different questions from the Asian immigration group to help us better understand their social and life experience in the United States and the basis of a personal characteristic that causes the immigration group treated unfairly
 
-# Selected Data for analysis
+## Selected Data for analysis
 The data contains more than 2000 rows and 230 attributes collecting from the surveys the city government sent out in 2020. The questions accurately measure the respondents' opinions, behaviors, and experiences. The demographic data regarding age, gender, marital status, etc is also retrieved. Few ethical considerations that may arise in the project include potential gender and age bias in the data.
 
 The dataset can be collected through API here: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
 
 Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 
-# Unknowns and dependencies
-Two factors can impede the project progress, the variable selections and data connectivity. The data contains more than 200 attributes, it will require time-consuming EDA analysis to select the best subset of the variables. The data is retrieved through an API interface without guaranteeing the data availability. The owner may shut off the access without giving any notice.
 
 # Research questions
 1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
