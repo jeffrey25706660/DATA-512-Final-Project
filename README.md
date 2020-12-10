@@ -1,5 +1,6 @@
 # Discrimination In the United States: Experiences of Asian Ethnic Group in the City of Austin
 
+## Abstract
 Asian American is the fastest-growing racial group in the United States according to the research by Pew Research Center. The City of Austin in Texas is no exception. According to the data released by the government of Austin, the number of Asians in Austin is doubling every ten years compared with the general population which doubles every 20 to 25 years. Yet, the majority of the group is still immigrants. Once here, Asian immigrant families face many obstacles, such as language barriers, culture shock, and ongoing adjustments to new lives. One of the most prevalent issues that most immigrants face is racism and discrimination. Many studies have found that racism has been linked with increased risk of health and lower satisfaction of life. The survey conducted by the City of Austin collects data from 230 different questions from the Asian immigration group to help us better understand their social and life experience in the United States and the basis of a personal characteristic that causes the immigration group to be treated unfairly.
 
 # Selected Data for analysis
