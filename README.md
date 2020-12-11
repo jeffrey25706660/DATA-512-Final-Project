@@ -32,9 +32,11 @@ The methodology for this project focuses on the mix of descriptive and regressio
 
 The survey data is a two-dimensional data structure with organized rows and columns which is well-suited for both methods. Each entry of which represents a respondent's answer to the survey questions, making it efficient to manipulate and perform analysis at different levels. We will begin with a descriptive analysis to identify outliers and detect typos in the survey data. Then, we will use the same method to summarize the characteristics of the data in a meaningful way. For example, we will calculate the average number of discrimination per person across different age groups as well as including the average quality of life in the analysis. We will also refine our calculation to compute the percentage of racial discrimination experienced across gender and marital status. Lastly, we will introduce the linear regression model to the project. Linear regression is an extremely powerful way of discovering the relationship between one or more predictor variables and the response. The method provides important evaluation metrics such as regression coefficients and p-values. We will be interpreting the outputs carefully to understand what factors are significant predictors of the outcome variable; i.e., the quality of life and the average number of racial discrimination among the Asian immigration group.
 
-# References:
+# References:¶
 [1]Gee GC, Spencer M, Chen J, Yip T, Takeuchi DT. The association between self-reported discrimination and 12-month DSM-IV mental disorders among Asian Americans nationwide. Social Science & Medicine. 2007b;64:1984–1996. Retrieved from https://www.researchgate.net/publication/227914163_Strangers_Still_The_Experience_of_Discrimination_Among_Chinese_Americans
 
 [2]Yoo HC, Lee RM. Ethnic identity and approach-type coping as moderators of the racial discrimination/well-being relation in Asian Americans. Journal of Counseling Psychology. 2005;52:497–506. Retrieved from https://psycnet.apa.org/record/2005-13343-006
 
-[3] The City of Austin. Top Ten Demographic Trends in Austin, Texas. Retrieved from https://www.austintexas.gov/page/top-ten-demographic-trends-austin-texas
+[3] The City of Austin. Top Ten Demographic Trends in Austin, Texas. Retrieved from https://www.austintexas.gov/page/top-ten-demographic-trends-austin-texas; https://www.austintexas.gov/sites/default/files/files/Planning/asians_by_origin.pdf
+
+[4] Pew Research Centery. Key facts about Asian Americans, a diverse and growing population. Retrieved from https://www.pewresearch.org/fact-tank/2020/05/07/asian-americans-are-the-fastest-growing-racial-or-ethnic-group-in-the-u-s-electorate/
