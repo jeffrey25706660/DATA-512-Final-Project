@@ -23,7 +23,7 @@ See the License section below for important legal information.
 
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/English_Speaking_vs_Discrimination.png)
 
-3. Does the wage difference correlate with experience of racial discrimination among Asian ethnic group?
+3. Does the income class correlate with discriminatory experience in the City of Austin?
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/Income_Level_vs_Discrimination.png)
 
 
