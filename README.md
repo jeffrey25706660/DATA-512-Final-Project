@@ -11,8 +11,7 @@ The data contains more than 2000 rows and 230 attributes collecting from the sur
 
 The dataset can be collected through API here: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
 
-Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
-
+See the License section below for important legal information.
 
 # Research Questions
 1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
@@ -36,3 +35,6 @@ Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 [3] The City of Austin. Top Ten Demographic Trends in Austin, Texas. Retrieved from https://www.austintexas.gov/page/top-ten-demographic-trends-austin-texas; https://www.austintexas.gov/sites/default/files/files/Planning/asians_by_origin.pdf
 
 [4] Pew Research Centery. Key facts about Asian Americans, a diverse and growing population. Retrieved from https://www.pewresearch.org/fact-tank/2020/05/07/asian-americans-are-the-fastest-growing-racial-or-ethnic-group-in-the-u-s-electorate/
+
+# License:
+Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
