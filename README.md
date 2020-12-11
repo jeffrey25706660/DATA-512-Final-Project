@@ -16,10 +16,12 @@ Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 
 # Research questions
 1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
+
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/regression%20analysis.png)
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/age_group_vs_discrimination.png)
 
 2. Does limited English proficiency lead to racial discrimination?
+
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/English_Speaking_vs_Discrimination.png)
 
 3. Does the wage difference correlate with experience of racial discrimination among Asian ethnic group?
