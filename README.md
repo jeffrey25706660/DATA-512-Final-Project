@@ -7,7 +7,7 @@ Asian American is the fastest-growing racial group in the United States accordin
 
 
 ## Data Sources
-The data contains more than 2000 rows and 230 attributes collecting from the surveys the city government sent out in 2020. The questions accurately measure the respondents' opinions, behaviors, and experiences. The demographic data regarding age, gender, marital status, etc is also retrieved. Few ethical considerations that may arise in the project include potential gender and age bias in the data.
+The data contains more than 2000 rows and 230 attributes collecting from the surveys the city government sent out in 2020. The questions accurately measure the respondents' opinions, behaviors, and experiences. The demographic data regarding age, gender, marital status, etc is also retrieved. 
 
 The dataset can be collected through API here: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
 
