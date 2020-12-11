@@ -14,7 +14,7 @@ The dataset can be collected through API here: https://data.austintexas.gov/City
 Terms of Service: https://austintexas.gov/page/city-austin-open-data-terms-use
 
 
-# Research questions
+# Research Questions
 1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
 
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/regression%20analysis.png)
