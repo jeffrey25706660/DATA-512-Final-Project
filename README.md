@@ -14,7 +14,7 @@ The dataset can be collected through API here: https://data.austintexas.gov/City
 See the License section below for important legal information.
 
 # Research Questions
-1. How does the racial discrimination have an effect on the quality of life across age among the Asian immigration group?
+1. How does the racial discrimination have an effect on the quality of life across age in the City of Austin?
 
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/graphs/regression%20analysis.png)
 ![alt text](https://github.com/jeffrey25706660/Data-512-final-project/blob/main/graphs/age_group_vs_discrimination.png)
